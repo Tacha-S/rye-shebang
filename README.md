@@ -6,7 +6,7 @@ This solves the problem of launching `rye run script.py` from outside the script
 
 ## Credits
 
-This project is based on [*pipenv-shebang*](https://github.com/laktak/pipenv-shebang) and [*poetry-shebang](https://github.com/ericriff/poetry-shebang).
+This project is based on [*pipenv-shebang*](https://github.com/laktak/pipenv-shebang) and [*poetry-shebang*](https://github.com/ericriff/poetry-shebang).
 
 ## Usage
 
